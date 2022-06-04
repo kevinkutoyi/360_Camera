@@ -21,7 +21,7 @@ html, body{
 }
 .right{
     left: 50%;
-    background: red;
+    background: #C54E57;
 }
 .nav{
     position: fixed;
